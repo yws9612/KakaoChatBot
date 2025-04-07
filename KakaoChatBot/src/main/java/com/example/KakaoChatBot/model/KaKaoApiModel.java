@@ -1,4 +1,4 @@
 package com.example.KakaoChatBot.model;
 
-public class kakaoModel {
+public class KaKaoApiModel {
 }
